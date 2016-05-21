@@ -1,0 +1,46 @@
+body {
+	background-image: url("../images/background.jpeg");
+	background-image: center;
+}
+
+#instructions {
+	background-color: white;
+	width: 400px;
+	height: 200px;
+	margin:; 10px 10px 10px 10px
+	color: white;
+	text-align: center;
+}
+
+#wins {
+	background-color: white;
+
+}
+
+.randomNumber {
+	height: 100px;
+	width: 100px;
+	background-color: gray;
+	font-size: 40px;
+}
+
+
+#wins {
+	height: 100px;
+	width: 100px;
+	background-color: gray;
+	font-size: 20px;
+}
+
+#losses {
+	width: 100px;
+	height: 100px;
+	background-color: gray;
+}
+.myResult{
+	width:180px;
+	height:90px;
+	background-color: gray;
+	font-size: 30px;
+	color: white;
+}
